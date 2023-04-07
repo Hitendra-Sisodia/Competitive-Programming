@@ -6,7 +6,9 @@ int N=1e2+10;
 
 int main()
 {   
+    // changes made on line 10
     int A[N][N];
+    int HitendraOp = 100;
     int sum[N][N];
     int n;
     cin>>n;
